@@ -1,0 +1,1 @@
+export { Azure } from './provider';
